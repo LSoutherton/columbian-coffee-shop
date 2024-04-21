@@ -1,0 +1,47 @@
+{
+    "slides": [
+        {
+            "src": "./Pictures/croissants.jpg",
+            "alt": "Image 1"
+        },
+        {
+            "src": "./Pictures/egg.jpg",
+            "alt": "Image 2"
+        },
+        {
+            "src": "./Pictures/creamCoffee.jpg",
+            "alt": "Image 3"
+        },
+        {
+            "src": "./Pictures/cakes.jpg",
+            "alt": "Image 4"
+        },
+        {
+            "src": "./Pictures/lunch.jpg",
+            "alt": "Image 5"
+        }
+    ],
+
+    "largeSlides": [
+        {
+            "src": "./Pictures/twoCoffees.jpg",
+            "alt": "Image 1"
+        },
+        {
+            "src": "./Pictures/macarons.jpg",
+            "alt": "Image 2"
+        },
+        {
+            "src": "./Pictures/frenchToast.jpg",
+            "alt": "Image 3"
+        },
+        {
+            "src": "./Pictures/cupcakes.jpg",
+            "alt": "Image 4"
+        },
+        {
+            "src": "./Pictures/latteArt.jpg",
+            "alt": "Image 5"
+        }
+    ]
+}
